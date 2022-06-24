@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "문학과 예술을 사랑하는 컴퓨터프로그래머"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+name                     : "KDuck"
 description              : "An amazing website."
 url                      : "https://senseoki.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
